@@ -22,9 +22,32 @@
 
 main {
     width: 45em;
-    background-color: grey;
-    border-color: black;
-    border: solid;
+    background-color: white;
     border-width:0.5px;
+    // display:block;
 
 }
+
+.div1 {
+    background-color: grey;
+    margin-bottom: 1px;
+    padding-top:2px;  //plus petit que padding-bottom
+    padding-bottom: 2px;
+
+};
+
+.div2 {
+    background-color: grey;
+    margin-bottom: 1px;
+    padding-top:2px;  //plus petit que padding-bottom
+    padding-bottom: 1px;
+}
+
+
+
+
+
+
+
+
+
